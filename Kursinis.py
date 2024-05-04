@@ -1,3 +1,7 @@
+import os
+
+print("Current working directory:", os.getcwd())
+
 class Book:
     def __init__(self, title, author, genre, isbn, available=True):
         self.title = title
@@ -105,7 +109,7 @@ class User:
         self.user_id = user_id
         self.books_borrowed = []
 
-library = Library("Knygos", "Knygos1")
+library = Library("Knygos.txt", "Knygos1.txt")
 
 
 library.display_all_books()
