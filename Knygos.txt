@@ -1,0 +1,5 @@
+The Catcher in the Rye,J.D. Salinger,Fiction,9780316769488,True
+To Kill a Mockingbird,Harper Lee,Classics,9780061120084,True
+1984,George Orwell,Science Fiction,9780451524935,True
+The Great Gatsby,F. Scott Fitzgerald,Fiction,9780743273565,True
+Harry Potter and the Sorcerer's Stone,J.K. Rowling,Fantasy,9780590353427,True
