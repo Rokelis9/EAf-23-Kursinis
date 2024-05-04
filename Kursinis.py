@@ -105,10 +105,8 @@ class User:
         self.user_id = user_id
         self.books_borrowed = []
 
-# Example usage
 library = Library("Knygos", "Knygos1")
 
-# Add, remove, and perform other operations on the library...
 
 library.display_all_books()
 library.sort_books_by_genre("Fantasy")
