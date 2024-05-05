@@ -1,5 +1,10 @@
-The Catcher in the Rye,J.D. Salinger,Fiction,9780316769488,True
-To Kill a Mockingbird,Harper Lee,Classics,9780061120084,True
-1984,George Orwell,Science Fiction,9780451524935,True
-The Great Gatsby,F. Scott Fitzgerald,Fiction,9780743273565,True
-Harry Potter and the Sorcerer's Stone,J.K. Rowling,Fantasy,9780590353427,True
+The Great Gatsby,F. Scott Fitzgerald,Fiction,True
+To Kill a Mockingbird,Harper Lee,Fiction,True
+1984,George Orwell,Science Fiction,True
+Pride and Prejudice,Jane Austen,Romance,True
+The Catcher in the Rye,J.D. Salinger,Fiction,True
+Harry Potter and the Philosopher's Stone,J.K. Rowling,Fantasy,True
+The Hobbit,J.R.R. Tolkien,Fantasy,True
+The Da Vinci Code,Dan Brown,Thriller,True
+The Hunger Games,Suzanne Collins,Young Adult,True
+The Lord of the Rings,J.R.R. Tolkien,Fantasy,True
